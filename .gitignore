@@ -1,1 +1,4 @@
-playfair_cipher.exe
+.vscode/
+*.o
+*.obj
+*.log
