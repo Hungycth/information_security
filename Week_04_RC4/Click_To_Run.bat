@@ -6,10 +6,10 @@ echo   THUAT TOAN: MA HOA DONG RC4
 echo ===========================================
 echo.
 :: Kiem tra file exe trong thu muc bin
-if exist "bin\rc4_demo.exe" (
-    "bin\rc4_demo.exe"
+if exist "bin\rc4.exe" (
+    "bin\rc4.exe"
 ) else (
-    echo [LOI] Khong tim thay file rc4_demo.exe trong thu muc bin.
+    echo [LOI] Khong tim thay file rc4.exe trong thu muc bin.
 )
 echo.
 echo ===========================================
