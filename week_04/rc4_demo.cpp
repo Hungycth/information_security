@@ -5,7 +5,7 @@
 
 using namespace std;
 
-// Key Scheduling Algorithm
+// Thuật toán lập lịch khóa (Key Scheduling Algorithm)
 vector<int> ksa(const vector<int>& key, int S_len = 256) {
     vector<int> S(S_len);
     for (int i = 0; i < S_len; ++i) {
@@ -20,9 +20,9 @@ vector<int> ksa(const vector<int>& key, int S_len = 256) {
     return S;
 }
 
-// Pseudo-Random Generation Algorithm
+// Thuật toán sinh dòng giả ngẫu nhiên (Pseudo-Random Generation Algorithm)
 vector<int> prga(const vector<int>& S_in, int n) {
-    vector<int> S = S_in; // make a copy
+    vector<int> S = S_in; // Tạo một bản sao để không làm thay đổi trạng thái S ban đầu
     vector<int> keystream;
     int i = 0;
     int j = 0;
