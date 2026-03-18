@@ -1,6 +1,6 @@
 # Tìm Nghịch Đảo Trong Trường Hữu Hạn GF(2^10)
 **Môn học:** An toàn thông tin - E9  
-**Giảng viên hướng dẫn:** ThS. Tạ Thị Kim Huệ  
+**Giảng viên hướng dẫn:** TS. Tạ Thị Kim Huệ  
 **Sinh viên thực hiện:** Cao Quang Hưng  
 **MSSV:** 20234012 - **Lớp:** IoT 01-K68
 

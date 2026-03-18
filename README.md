@@ -1,6 +1,6 @@
 # BÀI TẬP HỌC PHẦN: AN TOÀN THÔNG TIN (2025.2)
 
-**Giảng viên hướng dẫn:** ThS. Tạ Thị Kim Huệ  
+**Giảng viên hướng dẫn:** TS. Tạ Thị Kim Huệ  
 **Sinh viên thực hiện:** Cao Quang Hưng  
 **MSSV:** 20234012  
 **Lớp:** IoT 01-K68
